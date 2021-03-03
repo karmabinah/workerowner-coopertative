@@ -3,4 +3,4 @@ A look at what happens to a community when a worker owner co-op has been introdu
 
 Greetings!
 First time user type thing. We'll see where we go. 
-I'm using subject as my introduction to using GitHub. 
+I'm using this subject as my introduction to using GitHub. 
